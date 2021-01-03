@@ -4,8 +4,8 @@
 
 ## Links
 
-- [Demo](https://denisecase.github.io/js-gui-pwa-fact/)
-- [Source](https://github.com/denisecase/js-gui-pwa-fact)
+- [Hosted Page](https://charles-hoot.github.io/web-apps-js-gui-pwa-fact/)
+- [Repo](https://github.com/charles-hoot/web-apps-js-gui-pwa-fact)
 
 ## Requirements
 
